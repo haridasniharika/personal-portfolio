@@ -1,6 +1,6 @@
 :root {
   color-scheme: light dark;
-  --paper: #f5f2ff;
+  --paper: #ffb3b3;
   --ink: #211633;
   --muted: #544764;
   --accent: #5327a5;
@@ -12,7 +12,7 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --paper: #1c1528;
+    --paper: #500b17;
     --ink: #f5efff;
     --muted: #d3c5e3;
     --accent: #d4b8ff;
